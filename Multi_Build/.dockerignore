@@ -1,0 +1,7 @@
+Jenkinsfile
+__pycache__
+env.venv
+.venv
+.dockerignore
+ReadMe.*
+.idea
